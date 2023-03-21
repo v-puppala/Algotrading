@@ -6,3 +6,4 @@ This is a support-vector machine based algotrading model which trains on a OHLCV
 Initially, I trained the support vector machine on the 3 month period from April 2nd 2015 to July 2nd 2015. 
 The decisions predicted from the classifier trained on this historical 3 month window were used to obtain predicted returns, which were then graphed alongside actual returns.
 
+![svc_3-month](https://user-images.githubusercontent.com/54637095/226731265-c8059aed-2402-4a7a-92e2-9e84faa7d235.png)
