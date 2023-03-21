@@ -16,6 +16,7 @@ The decisions predicted from the classifier trained on this historical 3 month w
 Reducing the historical training window from 3 months to a single month (April 2nd 2015 - May 2nd 2015) surprisngly doesn't affect our predictions too noticeably. There are few slight differences that are extremely subtle but probably not easy to pick up on at first glance.
 
 **15 day SVC Classifier**!
+
 ![svc_15-day](https://user-images.githubusercontent.com/54637095/226741153-5d0d6825-72fc-4bc8-aa85-442b7897f6e6.png)
 
 
