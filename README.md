@@ -13,4 +13,4 @@ The decisions predicted from the classifier trained on this historical 3 month w
 
 ![svc_1-month](https://user-images.githubusercontent.com/54637095/226736032-5e6de8da-1ae7-420c-966d-1580cb7ab62f.png)
 
-Reducing the historical training window from 3 months to a single month surprisngly doesn't affect our predictions too noticeably. There are few slight differences that are extremely subtle but probably not easy to pick up on at first glance.
+Reducing the historical training window from 3 months to a single month (April 2nd 2015 - May 2nd 2015) surprisngly doesn't affect our predictions too noticeably. There are few slight differences that are extremely subtle but probably not easy to pick up on at first glance.
