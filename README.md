@@ -30,7 +30,8 @@ Interestingly, as we reduce the window even more, the area of the timeframe that
 By increasing the window, we see that the actual and predicted returns begin to diverge earlier. There's also in general more of a difference between the two quantities and it appears that the predicted returns at the 6 month window is actually worse for the most part than what is observed with the 3 month window
 
 **6 Month Adaboost Classifier**
-![ada_6-month](https://user-images.githubusercontent.com/54637095/227734103-3991564b-3cc8-4534-baee-4a4347e432f2.png)
+
+![adaboost_6-month](https://user-images.githubusercontent.com/54637095/227734223-f48d9ab3-1208-4376-a101-d54cc89781aa.png)
 
 
 Utilizing Adaboost, an ensemble decision tree method, as our underlying ML architecture for prediction drastically increases performance for the 6 month window.
