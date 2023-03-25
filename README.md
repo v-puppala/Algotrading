@@ -32,3 +32,5 @@ By increasing the window, we see that the actual and predicted returns begin to 
 **6 Month Adaboost Classifier**
 
 ![ada_6-month](https://user-images.githubusercontent.com/54637095/227733953-b738b75e-bd73-4b83-b16f-a8dd0037655b.png)
+
+Utilizing Adaboost, an ensemble decision tree method, as our underlying ML architecture for prediction drastically increases performance for the 6 month window.
