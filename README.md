@@ -21,3 +21,8 @@ Reducing the historical training window from 3 months to a single month (April 2
 
 
 Interestingly, as we reduce the window even more, the area of the timeframe that sees differences between actual and predicted returns is sequestered more tho the right.
+
+
+**6 Month SVC Classifier**
+
+![svc_6month](https://user-images.githubusercontent.com/54637095/227732568-ea8fcbdb-4f51-41ee-9b92-9aac9124f69f.png)
