@@ -38,4 +38,8 @@ Utilizing Adaboost, an ensemble decision tree method, as our underlying ML archi
 
 **3 Month Adaboost Classifier**
 
+
+![adaboost_3-month](https://user-images.githubusercontent.com/54637095/227734461-f362bef9-70c5-48c8-acb3-d0efb97e53e0.png)
+
+
 Interestingly, even though the svc 3 month model produced seemingly stronger results for the majority of the timeframe than what was observed in the 6 month svc model, the 6 month adaboost classifier was more consistently stronger in predicted returns than the 3 month adaboost classifier. This suggests that if a certain window is optimal for one one classifier, that window won't necessarily be optimal for another classifier. This necessitates the need for a hyperparameter grid search where each possible model and each possible hyperparameter is tried out.
