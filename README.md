@@ -28,3 +28,7 @@ Interestingly, as we reduce the window even more, the area of the timeframe that
 ![svc_6month](https://user-images.githubusercontent.com/54637095/227732568-ea8fcbdb-4f51-41ee-9b92-9aac9124f69f.png)
 
 By increasing the window, we see that the actual and predicted returns begin to diverge earlier. There's also in general more of a difference between the two quantities and it appears that the predicted returns at the 6 month window is actually worse for the most part than what is observed with the 3 month window
+
+**6 Month Adaboost Classifier**
+
+![ada_6-month](https://user-images.githubusercontent.com/54637095/227733953-b738b75e-bd73-4b83-b16f-a8dd0037655b.png)
