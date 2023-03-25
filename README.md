@@ -35,3 +35,7 @@ By increasing the window, we see that the actual and predicted returns begin to 
 
 
 Utilizing Adaboost, an ensemble decision tree method, as our underlying ML architecture for prediction drastically increases performance for the 6 month window.
+
+**3 Month Adaboost Classifier**
+
+Interestingly, even though the svc 3 month model produced seemingly stronger results than what was observed in the 6 month svc model.
