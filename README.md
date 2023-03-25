@@ -26,3 +26,5 @@ Interestingly, as we reduce the window even more, the area of the timeframe that
 **6 Month SVC Classifier**
 
 ![svc_6month](https://user-images.githubusercontent.com/54637095/227732568-ea8fcbdb-4f51-41ee-9b92-9aac9124f69f.png)
+
+By increasing the window, we see that the actual and predicted returns begin to diverge earlier.
